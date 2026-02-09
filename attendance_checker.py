@@ -9,8 +9,8 @@ from datetime import datetime
 import requests
 
 # --- Configuration ---
-USERNAME = "23881A67C1"
-PASSWORD = "36Mg6Trp@"
+USERNAME = "***********"
+PASSWORD = "**********"
 CHROMEDRIVER_PATH = "/opt/homebrew/bin/chromedriver"
 TELEGRAM_BOT_TOKEN = "7376143818:AAEITJMoZvvp5WpRbOLKgeN5yBbh8VAwaeY"
 TELEGRAM_CHAT_ID = "8001500966"
